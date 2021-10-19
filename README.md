@@ -26,4 +26,4 @@ Attenzione a non lasciare il parametro BEFORE vuoto, altrimenti il carattere che
 
 ## Author
 
-Vicentini Tommaso"# renfiledirname" 
+Vicentini Tommaso
