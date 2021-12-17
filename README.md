@@ -2,7 +2,7 @@
 
 
 ## Prerequisites
-python 3
+[python 3](https://www.python.org/downloads/)
 
 ## Program
 Il programma può essere usato per rimpiazzare un carattere nel nome di file e cartelle (anche nelle sottocartelle, sottocartelle comprese).
